@@ -1,4 +1,4 @@
-                                        Hostel Management System
+                                               Hostel Management System
 ________________________________________________________________________________________________________
 Key Features
 1)User Authentication: Secure registration and login for Students and Admins.
